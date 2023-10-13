@@ -7,7 +7,7 @@
 You can install Safe Redirect via Composer. Run the following command in the terminal:
 
 ```sh
-composer require seu-nome/safe-redirect
+composer require natanael-aguiar/safe-redirect
 ```
 
 ## Use
